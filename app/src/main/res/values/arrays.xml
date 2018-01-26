@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="text_size">
+        <item>10sp</item>
+        <item>12sp</item>
+        <item>18sp</item>
+        <item>20sp</item>
+        <item>40sp</item>
+        <item>60sp</item>
+        <item>80sp</item>
+        <item>100sp</item>
+
+    </array>
+
+    <array name="text_size_sp">
+        <item>10</item>
+        <item>12</item>
+        <item>18</item>
+        <item>20</item>
+        <item>40</item>
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+
+    </array>
+
+    <array name="load_font">
+        <item>@font/aguafina_script</item>
+    </array>
+</resources>
